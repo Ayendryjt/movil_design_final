@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@react-native-community/cli-platform-android": "^11.3.6"
+  }
+}
